@@ -1,0 +1,31 @@
+Transactions
+User,austinkindred53@gmail.com,59d0bf2497fd6a013c494f6e
+Account,BTC Wallet,59d0bf2597fd6a013c494f8c
+
+Timestamp,Balance,Amount,Currency,To,Notes,Instantly Exchanged,Transfer Total,Transfer Total Currency,Transfer Fee,Transfer Fee Currency,Transfer Payment Method,Transfer ID,Order Price,Order Currency,Order BTC,Order Tracking Code,Order Custom Parameter,Order Paid Out,Recurring Payment ID,Coinbase ID (visit https://www.coinbase.com/transactions/[ID] in your browser),Bitcoin Hash (visit https://www.coinbase.com/tx/[HASH] in your browser for more info)
+2017-11-15 08:28:49 -0800,0.13648953,0.13648953,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.13648953 BTC for $1,000.00 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Wednesday Nov 22, 2017.",false,1000.0,USD,14.68,USD,THE BANCORP.COM ********8733,5a0c6b3ece63a700010f802c,"","","","","","",5a05c61146342000e510a4ba,5a0c6b41ec38f20001341519,""
+2017-11-15 08:37:07 -0800,0.14316998,0.00668045,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.00668045 BTC for $50.00 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Wednesday Nov 22, 2017.",false,50.0,USD,1.99,USD,THE BANCORP.COM ********8733,5a0c6d32f924c10001328f54,"","","","","","",5a05c6954816a000fbd66bb6,5a0c6d330eb194000121e622,""
+2017-11-17 17:01:58 -0800,0.14585524,0.00268526,BTC,59d0bf2597fd6a013c494f8c,Bought 0.00268526 BTC for $22.00 USD.,false,22.0,USD,1.49,USD,USD Wallet,5a0f867462e443012975f939,"","","","","","","",5a0f868691ea9200011f59c9,""
+2017-11-17 17:02:45 -0800,0.14598616,0.00013092,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.00013092 BTC for $1.99 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Tuesday Nov 28, 2017.",false,1.99,USD,0.99,USD,THE BANCORP.COM ********8733,5a0f86aa5b8aca03c11a9812,"","","","","","","",5a0f86b5609b81000193adfe,""
+2017-11-17 17:03:15 -0800,0.14611708,0.00013092,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.00013092 BTC for $1.99 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Tuesday Nov 28, 2017.",false,1.99,USD,0.99,USD,THE BANCORP.COM ********8733,5a0f86c8257b4f00fb87e5b9,"","","","","","","",5a0f86d3609b81000193ae22,""
+2017-11-17 17:03:20 -0800,0.146248,0.00013092,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.00013092 BTC for $1.99 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Tuesday Nov 28, 2017.",false,1.99,USD,0.99,USD,THE BANCORP.COM ********8733,5a0f86d462e44300f475f753,"","","","","","","",5a0f86d82634de0001abcf32,""
+2017-11-17 17:05:07 -0800,0.14742393,0.00117593,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.00117593 BTC for $10.00 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Tuesday Nov 28, 2017.",false,10.0,USD,0.99,USD,THE BANCORP.COM ********8733,5a0f873ee45b5300e8b2e33d,"","","","","","","",5a0f87432634de0001abcf89,""
+2017-11-19 01:24:12 -0800,0.1485772,0.00115327,BTC,59d0bf2597fd6a013c494f8c,"Bought 0.00115327 BTC for $10.00 USD.
+
+Paid for with THE BANCORP.COM ********8733. Your digital currency will arrive by the end of day on Tuesday Nov 28, 2017.",false,10.0,USD,0.99,USD,THE BANCORP.COM ********8733,5a114db6c22b6200bf99f81f,"","","","","","","",5a114dbc6709b500019a7036,""
+2017-11-19 01:33:09 -0800,0.14599109,-0.00258611,BTC,5083a5425b4a5b0200000001,5a114fb85bc6240106e9ff5f,false,18.51,USD,1.49,USD,THE BANCORP.COM ********8733,5a114fb85bc6240106e9ff5f,"","","","","","","",5a114fd5edcbbe0001996b9b,""
+2017-11-25 10:05:32 -0800,0.03113081,-0.11486028,BTC,5083a5425b4a5b0200000001,5a19b0dbd262660242a439bd,false,985.1,USD,14.9,USD,THE BANCORP.COM ********8733,5a19b0dbd262660242a439bd,"","","","","","","",5a19b0ec26c9aa0001c9b72b,""
+2017-11-26 01:25:25 -0800,0.00315018,-0.02798063,BTC,5083a5425b4a5b0200000001,5a1a888491ea920001e80a82,false,246.28,USD,3.73,USD,THE BANCORP.COM ********8733,5a1a888491ea920001e80a82,"","","","","","",5a1a888453c100019f8fabe9,5a1a8885953aad00019b70fd,""
+2017-11-26 01:26:19 -0800,0.00272196,-0.00042822,BTC,5083a5425b4a5b0200000001,5a1a88b4ad5a40011fb6d7c1,false,2.84,USD,0.99,USD,USD Wallet,5a1a88b4ad5a40011fb6d7c1,"","","","","","","",5a1a88bb7702120001daca95,""
